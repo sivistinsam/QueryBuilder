@@ -1,6 +1,11 @@
 # Getting Started with Create React App
+Hosted Link: https://query-builder-react.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot 2024-01-26 at 1 39 01 PM](https://github.com/sivistinsam/QueryBuilder/assets/57314972/5044b682-7919-459e-9cbe-0864d41285ef)
+
+
+This project is query builder project where user can input the data into the required fields and the data will further converted and displayed in the page in JSON Format.
+Tech Stack Used: HTML, CSS, JavaScript, React. 
 
 ## Available Scripts
 
